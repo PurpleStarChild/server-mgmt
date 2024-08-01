@@ -7,3 +7,9 @@
 [submodule "ext_sites/nix"]
 	path = ext_sites/nix
 	url = https://github.com/PurpleStarChild/nix-blogs.git
+[submodule "ext_sites/misc/ddd"]
+	path = ext_sites/misc/ddd
+	url = https://github.com/PurpleStarChild/ddd.git
+[submodule "ext_sites/misc/renc"]
+	path = ext_sites/misc/renc
+	url = https://github.com/PurpleStarChild/renc.git
