@@ -1,3 +1,9 @@
 [submodule "ext_sites/star/wiki-cc"]
 	path = ext_sites/star/wiki-cc
 	url = https://github.com/PurpleStarChild/wiki.chaos-cat.git
+[submodule "infra"]
+	path = infra
+	url = https://github.com/PurpleStarChild/wayreth-infra.git
+[submodule "ext_sites/nix"]
+	path = ext_sites/nix
+	url = https://github.com/PurpleStarChild/nix-blogs.git
