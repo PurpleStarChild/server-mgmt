@@ -13,3 +13,5 @@
 [submodule "ext_sites/misc/renc"]
 	path = ext_sites/misc/renc
 	url = https://github.com/PurpleStarChild/renc.git
+[submodule "wiki-cc/"]
+	url = https://github.com/PurpleStarChild/wayreth-infra.git
