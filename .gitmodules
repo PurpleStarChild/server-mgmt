@@ -1,0 +1,3 @@
+[submodule "ext_sites/star/wiki-cc"]
+	path = ext_sites/star/wiki-cc
+	url = https://github.com/PurpleStarChild/wiki.chaos-cat.git
